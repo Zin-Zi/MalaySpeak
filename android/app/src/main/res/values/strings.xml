@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">မလေးစကားပြော</string>
+    <string name="app_name_en">MalaySpeak</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="nav_translate">ဘာသာပြန်</string>
+    <string name="nav_translate_en">Translate</string>
+    <string name="nav_vocabulary">ဝေါဟာရကတ်</string>
+    <string name="nav_vocabulary_en">Vocabulary</string>
+    <string name="nav_progress">တိုးတက်မှု</string>
+    <string name="nav_progress_en">Progress</string>
+
+    <!-- Translation Screen -->
+    <string name="translate_placeholder">စကားစု သို့မဟုတ် စာကြောင်း ရိုက်ထည့်ပါ (ဗမာ၊ English၊ Malay)...</string>
+    <string name="btn_translate">ဘာသာပြန်မည်</string>
+    <string name="translating_status">မလေးရှား စကားပြော အသုံးအနှုန်းကို စိစစ်နေပါသည်...</string>
+    <string name="explanation_title">မလေးရှား စကားပြော ထူးခြားချက်</string>
+    <string name="pronunciation_title">အသံထွက် လမ်းညွှန်</string>
+
+    <!-- Vocabulary Screen -->
+    <string name="mark_as_learned">လေ့လာပြီးပြီ မှတ်သားရန်</string>
+    <string name="card_learned_badge">လေ့လာပြီး</string>
+    <string name="swipe_hint">နောက်ကတ်သို့ ကူးရန် ဘယ်/ညာ ပွတ်ဆွဲပါ</string>
+
+    <!-- Progress Screen -->
+    <string name="progress_title">သင်ယူမှု တိုးတက်မှု အခြေအနေ</string>
+    <string name="total_mastered">ကျက်မှတ်ပြီးသော စကားစုများ</string>
+    <string name="reset_progress">တိုးတက်မှုကို အစမှ ပြန်လည်စတင်ရန်</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">မလေးစကားပြော မှ ကြိုဆိုပါသည်</string>
+    <string name="onboarding_subtitle">မလေးရှားရောက် မြန်မာများအတွက် လက်တွေ့သုံး မလေးစကားပြော သင်ယူမှုလက်စွဲ</string>
+    <string name="onboarding_btn_start">စတင်အသုံးပြုမည်</string>
+</resources>

@@ -1,0 +1,6 @@
+## This file must NOT be checked into Version Control Systems.
+# Location of the SDK. This is only used by Gradle.
+# sdk.dir=/Users/your_user/Library/Android/sdk
+
+# Gemini API Key for conversational translation
+GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE

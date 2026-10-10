@@ -1,0 +1,1042 @@
+[
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Apa khabar? Sihat ke?",
+    "english": "How are you? Are you doing well?",
+    "myanmar": "နေကောင်းလားခင်ဗျာ။ ကျန်းမာရဲ့လား။",
+    "explanation": "မလေးရှားတွင် လူအချင်းချင်း တွေ့ဆုံသည့်အခါ ရင်းနှီးနွေးထွေးစွာ နှုတ်ဆက်ရန် အသုံးများဆုံး စကားစုဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Khabar baik, terima kasih.",
+    "english": "I am fine, thank you.",
+    "myanmar": "နေကောင်းပါတယ်၊ ကျေးဇူးတင်ပါတယ်။",
+    "explanation": "Apa khabar ဟု မေးမြန်းသည့်အခါ ယဉ်ကျေးစွာ ပြန်လည်ဖြေကြားသည့် စကားစုဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Dah makan belum?",
+    "english": "Have you eaten yet?",
+    "myanmar": "ထမင်းစားပြီးပြီလား။",
+    "explanation": "မလေးရှားလူမျိုးများ တစ်ဦးနှင့်တစ်ဦး ကြင်နာမှုပြသည့် အနေဖြင့် နှုတ်ဆက်ရာတွင် အမြဲမေးလေ့ရှိပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Dah makan dah, kenyang sangat.",
+    "english": "Yes, I have already eaten, very full.",
+    "myanmar": "စားပြီးပါပြီခင်ဗျာ၊ ဗိုက်ဝနေပါပြီ။",
+    "explanation": "ထမင်းစားပြီးကြောင်းကို ရင်းနှီးစွာ ပြန်လည်ဖြေကြားသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Belum lagi, jom makan sekali.",
+    "english": "Not yet, let's go eat together.",
+    "myanmar": "မစားရသေးဘူး၊ အတူတူ သွားစားကြစို့။",
+    "explanation": "မစားရသေးကြောင်းနှင့် အတူတူ သွားစားရန် ခေါ်ဖိတ်သည့် အသုံးဖြစ်ပါသည်။ 'Jom' သည် သွားစို့ ဟု အဓိပ္ပာယ်ရပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Selamat pagi boss.",
+    "english": "Good morning boss.",
+    "myanmar": "မင်္ဂလာ နံနက်ခင်းပါ သူဌေး/အစ်ကို။",
+    "explanation": "မနက်ခင်း လုပ်ငန်းခွင် သို့မဟုတ် ဆိုင်များတွင် သူဌေး သို့မဟုတ် အကြီးအကဲများကို နှုတ်ဆက်သည့်စကား ဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Selamat petang bang.",
+    "english": "Good evening brother.",
+    "myanmar": "မင်္ဂလာ ညနေခင်းပါ အစ်ကို။",
+    "explanation": "ညနေပိုင်းတွင် လုပ်ဖော်ကိုင်ဖက် သို့မဟုတ် မိတ်ဆွေများကို လေးစားရင်းနှီးစွာ နှုတ်ဆက်သည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Selamat malam, rehat elok-elok.",
+    "english": "Good night, have a good rest.",
+    "myanmar": "ကောင်းသောညပါ၊ ကောင်းကောင်း အနားယူပါ။",
+    "explanation": "ညဘက် နှုတ်ဆက်ခွဲခွာသည့်အခါ သို့မဟုတ် အိပ်ရာဝင်ခါနီး ဆုမွန်ကောင်းတောင်းသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Terima kasih banyak-banyak ya.",
+    "english": "Thank you very much.",
+    "myanmar": "ကျေးဇူး အများကြီးတင်ပါတယ်ခင်ဗျာ။",
+    "explanation": "အကူအညီရရှိသည့်အခါ လေးလေးနက်နက် ကျေးဇူးတင်စကား ပြောကြားသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Sama-sama, tak ada hal lah.",
+    "english": "You are welcome, no problem at all.",
+    "myanmar": "ရပါတယ်ခင်ဗျာ၊ ကိစ္စမရှိပါဘူး။",
+    "explanation": "ကျေးဇူးတင်စကားကို ပြန်လည်တုံ့ပြန်ရာတွင် ဖော်ရွေစွာ သုံးနှုန်းသော မလေးရှားစကား ဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Minta maaf ya, saya tak sengaja.",
+    "english": "I am sorry, I did not mean to.",
+    "myanmar": "တောင်းပန်ပါတယ်ခင်ဗျာ၊ မတော်တဆ ဖြစ်သွားတာပါ။",
+    "explanation": "အမှားတစ်ခုခုပြုလုပ်မိသည့်အခါ စိတ်ရင်းဖြင့် တောင်းပန်စကား ပြောကြားသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Tak apa, hal kecik je.",
+    "english": "It's okay, it's just a small matter.",
+    "myanmar": "ရပါတယ်၊ ကိစ္စသေးသေးလေးပါပဲ။",
+    "explanation": "တစ်ဖက်လူ တောင်းပန်သည့်အခါ စိတ်သက်သာရာရစေရန် ပြန်ပြောသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Nama saya Aung, dari Myanmar.",
+    "english": "My name is Aung, from Myanmar.",
+    "myanmar": "ကျွန်တော့်နာမည် အောင် ပါ၊ မြန်မာနိုင်ငံကပါ။",
+    "explanation": "မိမိကိုယ်ကို မိတ်ဆက်ရာတွင် နာမည်နှင့် နိုင်ငံကို ဖော်ပြသည့် အခြေခံ အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Nama bos siapa ya?",
+    "english": "What is your name, boss/sir?",
+    "myanmar": "သူဌေး/အစ်ကို့ရဲ့ နာမည်က ဘယ်သူပါလဲခင်ဗျာ။",
+    "explanation": "တစ်ဖက်လူ၏ နာမည်ကို ယဉ်ကျေးစွာ မေးမြန်းစုံစမ်းသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Seronok berkenalan dengan awak.",
+    "english": "Nice to meet you.",
+    "myanmar": "ခင်ဗျားနဲ့ သိကျွမ်းရတာ ဝမ်းသာပါတယ်။",
+    "explanation": "အသစ်တွေ့ဆုံသည့် မိတ်ဆွေသစ်များနှင့် ခင်မင်မှုစတင်ရာတွင် သုံးနှုန်းသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Awak tinggal dekat mana?",
+    "english": "Where do you live?",
+    "myanmar": "ခင်ဗျား ဘယ်နားမှာ နေလဲခင်ဗျာ။",
+    "explanation": "တစ်ဖက်လူ၏ နေထိုင်ရာ အရပ်ဒေသကို ဖော်ရွေစွာ မေးမြန်းသည့် စကားစုဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Saya tinggal dekat area KL.",
+    "english": "I live around the KL area.",
+    "myanmar": "ကျွန်တော် ကွာလာလမ်ပူ နားမှာ နေပါတယ်။",
+    "explanation": "မိမိနေထိုင်ရာ ဒေသကို ပြန်လည်ဖြေကြားသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Dah lama ke kerja kat sini?",
+    "english": "Have you been working here for long?",
+    "myanmar": "ဒီမှာ အလုပ်လုပ်တာ ကြာပြီလားခင်ဗျာ။",
+    "explanation": "လုပ်ငန်းခွင် လုပ်သက်ကို ဖော်ရွေစွာ မေးမြန်းသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Baru sebulan je saya kerja sini.",
+    "english": "I have only worked here for a month.",
+    "myanmar": "ကျွန်တော် ဒီမှာ အလုပ်လုပ်တာ တစ်လပဲ ရှိပါသေးတယ်။",
+    "explanation": "မိမိ၏ လုပ်သက်အသစ်ဖြစ်ကြောင်းကို ဖြေကြားသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Boleh cakap Melayu sikit-sikit.",
+    "english": "I can speak a little bit of Malay.",
+    "myanmar": "မလေးစကား နည်းနည်းပါးပါး ပြောတတ်ပါတယ်။",
+    "explanation": "မလေးဘာသာစကား အခြေခံ အနည်းငယ် ပြောဆိုနိုင်ကြောင်း ဖော်ပြသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Tolong ajar saya cakap Melayu.",
+    "english": "Please teach me to speak Malay.",
+    "myanmar": "ကျွန်တော့်ကို မလေးစကား သင်ပေးပါဦးခင်ဗျာ။",
+    "explanation": "မလေးစကား သင်ယူလိုစိတ်ဖြင့် ကူညီသင်ကြားပေးရန် တောင်းဆိုသည့် စကားစုဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Awak faham tak apa saya cakap?",
+    "english": "Do you understand what I am saying?",
+    "myanmar": "ကျွန်တော် ပြောတာကို ခင်ဗျား နားလည်ရဲ့လား။",
+    "explanation": "မိမိပြောသောစကားကို တစ်ဖက်လူ နားလည်မှုရှိမရှိ မေးမြန်းသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Saya tak berapa faham sangat.",
+    "english": "I don't really understand that well.",
+    "myanmar": "ကျွန်တော် သိပ်နားမလည်လှပါဘူးခင်ဗျာ။",
+    "explanation": "စကားအဓိပ္ပာယ်ကို ရှင်းလင်းစွာ နားမလည်ကြောင်း ရိုးသားစွာ အသိပေးသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Boleh cakap pelan-pelan sikit?",
+    "english": "Can you speak a bit slower please?",
+    "myanmar": "နည်းနည်းလောက် ဖြည်းဖြည်း ပြောပေးလို့ ရမလားခင်ဗျာ။",
+    "explanation": "တစ်ဖက်လူ စကားပြောမြန်နေသည့်အခါ ဖြည်းဖြည်းပြောရန် ယဉ်ကျေးစွာ မေတ္တာရပ်ခံသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Ulang sekali lagi boleh?",
+    "english": "Can you repeat once again please?",
+    "myanmar": "နောက်တစ်ခေါက်လောက် ထပ်ပြောပေးလို့ ရမလားခင်ဗျာ။",
+    "explanation": "မကြားလိုက်ရသော သို့မဟုတ် နားမလည်သောစကားကို နောက်တစ်ကြိမ် ထပ်ပြောပေးရန် တောင်းဆိုသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Jumpa lagi esok ya!",
+    "english": "See you again tomorrow!",
+    "myanmar": "မနက်ဖြန် ပြန်တွေ့ကြတာပေါ့နော်။",
+    "explanation": "အလုပ်ဆင်းချိန် သို့မဟုတ် နှုတ်ဆက်ခွဲခွာချိန်တွင် မနက်ဖြန်တွေ့ရန် ချိန်းဆိုနှုတ်ဆက်သည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Saya balik dulu ya bang.",
+    "english": "I am heading back first, brother.",
+    "myanmar": "ကျွန်တော် အရင်ပြန်နှင့်ပါဦးမယ် အစ်ကို။",
+    "explanation": "အလုပ်မှ အရင်ပြန်ချိန်တွင် လုပ်ဖော်ကိုင်ဖက်များကို အသိပေးနှုတ်ဆက်သည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Jaga diri baik-baik tau.",
+    "english": "Take good care of yourself okay.",
+    "myanmar": "ကိုယ့်ကိုယ်ကိုယ် ဂရုစိုက်ပါဦးနော်။",
+    "explanation": "မိတ်ဆွေများကို သံယောဇဉ်ဖြင့် ဂရုစိုက်ရန် မှာကြားနှုတ်ဆက်သည့် စကားစုဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Semoga hari awak ceria selalu.",
+    "english": "May your day always be cheerful.",
+    "myanmar": "နေ့ရက်တိုင်း ပျော်ရွှင်ပါစေကြောင်း ဆုမွန်ကောင်းတောင်းပါတယ်။",
+    "explanation": "တစ်ဖက်သား စိတ်ချမ်းသာစေရန် ဆုတောင်းပေးသည့် ယဉ်ကျေးသော နှုတ်ဆက်စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "GREETINGS",
+    "categoryMm": "နှုတ်ဆက်ခြင်း",
+    "malay": "Ada apa-apa hal boleh call saya.",
+    "english": "If anything happens you can call me.",
+    "myanmar": "ကိစ္စတစ်ခုခုရှိရင် ကျွန်တော့်ဆီ ဖုန်းဆက်လို့ရပါတယ်ခင်ဗျာ။",
+    "explanation": "အကူအညီလိုပါက အချိန်မရွေး ဆက်သွယ်နိုင်ကြောင်း အသိပေးသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Pukul berapa masuk kerja hari ini?",
+    "english": "What time do we start work today?",
+    "myanmar": "ဒီနေ့ အလုပ်ဘယ်နှစ်နာရီ ဝင်ရမလဲခင်ဗျာ။",
+    "explanation": "အလုပ်စတင်ချိန်ကို မေးမြန်းသည့် အသုံးများသော စကားစုဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Jangan lupa punch card bila sampai.",
+    "english": "Do not forget to punch the time card when arriving.",
+    "myanmar": "ရောက်ရင် ကတ်ဆွဲဖို့ မမေ့နဲ့နော်။",
+    "explanation": "စက်ရုံ သို့မဟုတ် ဆိုင်သို့ ရောက်ရှိချိန် အလုပ်ဝင်ကတ်ဆွဲရန် သတိပေးသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Hari ini ada buat OT (overtime) tak?",
+    "english": "Is there any overtime (OT) work today?",
+    "myanmar": "ဒီနေ့ အိုတီ (OT) ဆင်းရမလားခင်ဗျာ။",
+    "explanation": "အချိန်ပို အလုပ်လုပ်ရခြင်း ရှိမရှိ သူဌေး သို့မဟုတ် စူပါဗိုက်ဇာကို မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Saya nak buat OT kalau ada kekosongan.",
+    "english": "I want to do overtime if there is an opening.",
+    "myanmar": "အိုတီရှိရင် ကျွန်တော် ဆင်းချင်ပါတယ်ခင်ဗျာ။",
+    "explanation": "အချိန်ပို အိုတီ ဆင်းလိုကြောင်း အထက်လူကြီးထံ တောင်းဆိုသည့် စကားစုဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Pukul berapa kita boleh rehat?",
+    "english": "What time can we take a break?",
+    "myanmar": "ဘယ်အချိန် နားချိန်ရမလဲခင်ဗျာ။",
+    "explanation": "နေ့လယ်စာ သို့မဟုတ် ခေတ္တအနားယူချိန်ကို မေးမြန်းသည့် အသုံးဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Tolong tunjuk cara buat kerja ni.",
+    "english": "Please show me how to do this work.",
+    "myanmar": "ဒီအလုပ်လုပ်နည်းလေး ကျွန်တော့်ကို ပြပေးပါဦးခင်ဗျာ။",
+    "explanation": "မသိသေးသော လုပ်ငန်းခွင်လုပ်ငန်းစဉ်များကို လုပ်ဖော်ကိုင်ဖက်ထံ သင်ကြားပြသခိုင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Kerja ni dah siap, bos.",
+    "english": "This job is finished, boss.",
+    "myanmar": "ဒီအလုပ် ပြီးသွားပါပြီ သူဌေး။",
+    "explanation": "တာဝန်ကျသော အလုပ်ပြီးစီးကြောင်း အထက်လူကြီးထံ အသိပေးသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Barang ni nak simpan kat mana?",
+    "english": "Where should I store/keep these goods?",
+    "myanmar": "ဒီပစ္စည်းတွေ ဘယ်နေရာမှာ သိမ်းရမလဲခင်ဗျာ။",
+    "explanation": "ပစ္စည်းများ ထားသိုရမည့် နေရာကို မေးမြန်းစုံစမ်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Mesin ni rosak, tak boleh jalan.",
+    "english": "This machine is broken, it cannot run.",
+    "myanmar": "ဒီစက် ပျက်နေတယ်၊ လည်လို့မရတော့ဘူး။",
+    "explanation": "စက်ရုံ သို့မဟုတ် ဆိုင်သုံး စက်ယန္တရား ချွတ်ယွင်းပျက်စီးကြောင်း တိုင်ကြားသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Hati-hati, tempat ni licin dan bahaya.",
+    "english": "Be careful, this place is slippery and dangerous.",
+    "myanmar": "သတိထားပါ၊ ဒီနေရာ ချောပြီး အန္တရာယ်ရှိပါတယ်။",
+    "explanation": "လုပ်ငန်းခွင် ဘေးအန္တရာယ်ကင်းရှင်းစေရန် လုပ်ဖော်ကိုင်ဖက်များကို သတိပေးသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Boleh tolong angkat kotak ni berat sangat?",
+    "english": "Can you help lift this box, it is very heavy?",
+    "myanmar": "ဒီသေတ္တာ အရမ်းလေးလို့ နည်းနည်းကူမပေးနိုင်မလားခင်ဗျာ။",
+    "explanation": "လေးလံသော ပစ္စည်းများကို အတူမရန် အကူအညီတောင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Esok saya nak minta cuti satu hari.",
+    "english": "Tomorrow I would like to request one day off.",
+    "myanmar": "မနက်ဖြန် ကျွန်တော် တစ်ရက် ခွင့်ယူချင်ပါတယ်ခင်ဗျာ။",
+    "explanation": "အလုပ်ခွင့်ရက် တောင်းခံသည့်အခါ အထက်လူကြီးထံ ယဉ်ကျေးစွာ ပြောကြားသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Bila dapat gaji bulan ini?",
+    "english": "When do we get this month salary?",
+    "myanmar": "ဒီလ လစာ ဘယ်နေ့ထွက်မလဲခင်ဗျာ။",
+    "explanation": "လစဉ် လစာထုတ်ရက်ကို မေးမြန်းစုံစမ်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Tolong periksa slip gaji saya ada silap.",
+    "english": "Please check my payslip, there might be a mistake.",
+    "myanmar": "ကျွန်တော့် လစာစလစ်လေး စစ်ပေးပါဦး၊ အမှားပါနေလို့ပါ။",
+    "explanation": "လစာငွေပမာဏ သို့မဟုတ် အိုတီတွက်ချက်မှု မမှန်ကန်ပါက စစ်ဆေးခိုင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Shift saya minggu depan pagi ke malam?",
+    "english": "Is my shift next week morning or night?",
+    "myanmar": "လာမယ့်အပတ် ကျွန်တော့်အလုပ်ဆိုင်းက မနက်ပိုင်းလား ညပိုင်းလားခင်ဗျာ။",
+    "explanation": "အလုပ်ဂျူတီ အလှည့်ကျဆိုင်းကို စုံစမ်းမေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Pakai kasut safety dan sarung tangan.",
+    "english": "Wear safety shoes and gloves.",
+    "myanmar": "လုံခြုံရေးဖိနပ်နဲ့ လက်အိတ် ဝတ်ဆင်ထားပါ။",
+    "explanation": "လုပ်ငန်းခွင် လုံခြုံရေး ဝတ်စုံဆိုင်ရာ လမ်းညွှန်ချက်ဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Saya dah bersihkan kawasan kerja ni.",
+    "english": "I have cleaned up this work area.",
+    "myanmar": "ကျွန်တော် ဒီလုပ်ငန်းခွင်နေရာကို သန့်ရှင်းရေးလုပ်ပြီးပါပြီ။",
+    "explanation": "အလုပ်ပြီးချိန် နေရာသန့်ရှင်းရေး ပြီးစီးကြောင်း သတင်းပို့သည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Ada apa lagi kerja saya kena buat?",
+    "english": "Is there anything else I need to do?",
+    "myanmar": "ကျွန်တော် ထပ်လုပ်စရာ ဘာအလုပ်ရှိသေးလဲခင်ဗျာ။",
+    "explanation": "နောက်ထပ်လုပ်ဆောင်ရမည့် တာဝန်ရှိမရှိ မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Minta tanda tangan borang ni bos.",
+    "english": "Please sign this form boss.",
+    "myanmar": "ဒီဖောင်မှာ လက်မှတ်ထိုးပေးပါဦး သူဌေး။",
+    "explanation": "ခွင့်ဖောင် သို့မဟုတ် ပစ္စည်းထုတ်ဖောင်တွင် လက်မှတ်တောင်းခံသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "WORKPLACE",
+    "categoryMm": "လုပ်ငန်းခွင်",
+    "malay": "Kita kena kejar target siap hari ini.",
+    "english": "We have to hit the target today.",
+    "myanmar": "ဒီနေ့ အလုပ်ပစ်မှတ်မီအောင် အပြီးလုပ်ရပါမယ်။",
+    "explanation": "စက်ရုံ သို့မဟုတ် အလုပ်ခွင် ပစ်မှတ်ပြီးမြောက်ရေး ပြောဆိုသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Berapa harga satu kilo ni bang?",
+    "english": "How much is one kilo of this brother?",
+    "myanmar": "ဒါ တစ်ကီလို ဘယ်လောက်လဲ အစ်ကို။",
+    "explanation": "ဈေးဆိုင်တွင် ကီလိုဖြင့် ရောင်းသော အသား၊ ငါး၊ ဟင်းသီးဟင်းရွက် ဈေးနှုန်းမေးသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Boleh kurang sikit tak harga dia?",
+    "english": "Can you lower the price a little bit?",
+    "myanmar": "ဈေး နည်းနည်းလောက် လျှော့ပေးလို့ ရမလားခင်ဗျာ။",
+    "explanation": "ဈေးဆစ်သည့်အခါ ယဉ်ကျေးဖော်ရွေစွာ သုံးနှုန်းသော စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Mahal sangat lah, bagi murah sikit.",
+    "english": "It is too expensive, give it a bit cheaper.",
+    "myanmar": "ဈေးအရမ်းကြီးတယ်ဗျာ၊ နည်းနည်းလောက် လျှော့ပေးပါ။",
+    "explanation": "ဈေးနှုန်းမြင့်မားနေသည့်အခါ လျှော့ပေးရန် တောင်းဆိုသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Ada saiz besar lagi tak?",
+    "english": "Do you have a bigger size?",
+    "myanmar": "ဒီထက် ပိုကြီးတဲ့ ဆိုဒ် ရှိသေးလားခင်ဗျာ။",
+    "explanation": "အဝတ်အစား သို့မဟုတ် ဖိနပ် ဝယ်ယူရာတွင် ဆိုဒ်အကြီး မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Saya nak cuba baju ni boleh?",
+    "english": "Can I try on this shirt?",
+    "myanmar": "ဒီအင်္ကျီလေး ဝတ်စမ်းကြည့်လို့ ရမလားခင်ဗျာ။",
+    "explanation": "အဝတ်အထည်များ မဝယ်မီ ဝတ်ဆင်စမ်းသပ်ရန် ခွင့်တောင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Bilik fitting dekat sebelah mana?",
+    "english": "Which side is the fitting room on?",
+    "myanmar": "အဝတ်လဲခန်း ဘယ်ဘက်မှာ ရှိလဲခင်ဗျာ။",
+    "explanation": "အဝတ်စမ်းဝတ်သည့် အခန်းနေရာကို မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Saya nak beli sim card dan topup internet.",
+    "english": "I want to buy a SIM card and top up internet.",
+    "myanmar": "ဆင်းမ်ကတ် ဝယ်ချင်ပြီး အင်တာနက် ဘေလ်ဖြည့်ချင်လို့ပါ။",
+    "explanation": "ဖုန်းဆိုင်တွင် ဆင်းမ်ကတ်ဝယ်ယူခြင်းနှင့် ဒေတာဘေလ်ဖြည့်သွင်းရာတွင် သုံးသော စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Boleh bayar guna QR code / TNG eWallet tak?",
+    "english": "Can I pay using QR code / Touch n Go eWallet?",
+    "myanmar": "ကျူအာကုဒ် / TNG eWallet နဲ့ ငွေရှင်းလို့ ရမလားခင်ဗျာ။",
+    "explanation": "ဒစ်ဂျစ်တယ် ပိုက်ဆံအိတ် သို့မဟုတ် အွန်လိုင်းစနစ်ဖြင့် ငွေရှင်းရန် မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Boleh bagi resit pembelian?",
+    "english": "Can you give me the purchase receipt?",
+    "myanmar": "ဝယ်ယူမှု ပြေစာ (ဘောက်ချာ) ပေးလို့ ရမလားခင်ဗျာ။",
+    "explanation": "ငွေရှင်းပြီးနောက် ဘောက်ချာ သို့မဟုတ် ပြေစာ တောင်းခံသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Ada beg plastik tak?",
+    "english": "Do you have a plastic bag?",
+    "myanmar": "ပလတ်စတစ်အိတ် ရမလားခင်ဗျာ။",
+    "explanation": "ဝယ်ထားသော ပစ္စည်းများ ထည့်ရန် အိတ်တောင်းဆိုသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Berapa semua sekali bos?",
+    "english": "How much is everything in total, boss?",
+    "myanmar": "အားလုံးပေါင်း ဘယ်လောက်ကျပါသလဲ သူဌေး။",
+    "explanation": "ဝယ်ယူထားသော ပစ္စည်းအားလုံး၏ စုစုပေါင်းကုန်ကျငွေကို မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Ini ada duit baki salah kira.",
+    "english": "Here is wrong change, please check.",
+    "myanmar": "ဒီမှာ ပြန်အမ်းငွေ မှားတွက်ထားလို့ပါခင်ဗျာ။",
+    "explanation": "ပြန်အမ်းငွေ ပိုခြင်း သို့မဟုတ် လျော့ခြင်း ဖြစ်ပါက ပြန်လည်ပြောဆိုသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Barang ni ada diskaun tak?",
+    "english": "Does this item have a discount?",
+    "myanmar": "ဒီပစ္စည်း လျှော့ဈေး (Discount) ရှိလားခင်ဗျာ။",
+    "explanation": "ပရိုမိုးရှင်း သို့မဟုတ် လျှော့ဈေး ရှိမရှိ မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Saya nak timbang sayur ni.",
+    "english": "I want to weigh these vegetables.",
+    "myanmar": "ဒီဟင်းသီးဟင်းရွက်တွေ ချိန်တွယ်ချင်လို့ပါ။",
+    "explanation": "စူပါမားကတ်တွင် ဟင်းသီးဟင်းရွက် ကီလိုချိန်တွယ်ရန် ပြောဆိုသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Ikan ni segar baru sampai ke?",
+    "english": "Is this fish fresh and newly arrived?",
+    "myanmar": "ဒီငါး လတ်ဆတ်ပြီး အခုမှ ရောက်တာလားခင်ဗျာ။",
+    "explanation": "စိုစွတ်ဈေးတွင် ငါးလတ်ဆတ်မှု ရှိမရှိ မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Tolong potong ayam ni empat ketul.",
+    "english": "Please cut this chicken into four pieces.",
+    "myanmar": "ဒီကြက်သားကို လေးပိုင်း ပိုင်းပေးပါခင်ဗျာ။",
+    "explanation": "အသားသည်ထံ ကြက်သားတုံးခိုင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Kedai ni buka pukul berapa esok?",
+    "english": "What time does this shop open tomorrow?",
+    "myanmar": "ဒီဆိုင် မနက်ဖြန် ဘယ်အချိန်ဖွင့်လဲခင်ဗျာ။",
+    "explanation": "ဆိုင်ဖွင့်ချိန်ကို ကြိုတင်မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Ada jual ubat nyamuk tak?",
+    "english": "Do you sell mosquito repellent?",
+    "myanmar": "ခြင်ဆေးခွေ / ခြင်ဆေး ရောင်းစရာရှိလားခင်ဗျာ။",
+    "explanation": "ကုန်စုံဆိုင်တွင် ခြင်ဆေးမေးမြန်း ဝယ်ယူသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Boleh tukar tak kalau tak muat?",
+    "english": "Can I exchange it if it does not fit?",
+    "myanmar": "မတော်ရင် လာလဲလို့ ရမလားခင်ဗျာ။",
+    "explanation": "ပစ္စည်း မတော်ပါက လဲလှယ်ခွင့် ရှိမရှိ မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "SHOPPING",
+    "categoryMm": "ဈေးဝယ်ခြင်း",
+    "malay": "Terima kasih, nanti saya datang lagi.",
+    "english": "Thank you, I will come again later.",
+    "myanmar": "ကျေးဇူးတင်ပါတယ်၊ နောက်မှ ပြန်လာခဲ့ပါမယ်နော်။",
+    "explanation": "ဈေးဝယ်ပြီးနောက် ဆိုင်ရှင်ကို နှုတ်ဆက်ခွဲခွာသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Bas ke KL Sentral jalan pukul berapa?",
+    "english": "What time does the bus to KL Sentral leave?",
+    "myanmar": "ကွာလာလမ်ပူစင်ထရယ်လ် (KL Sentral) သွားတဲ့ဘတ်စ်ကား ဘယ်အချိန်ထွက်မလဲခင်ဗျာ။",
+    "explanation": "အဓိကဘူတာကြီးသို့ သွားသော ဘတ်စ်ကားထွက်ချိန်ကို စုံစမ်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Di mana stesen LRT yang paling dekat?",
+    "english": "Where is the nearest LRT train station?",
+    "myanmar": "အနီးဆုံး LRT ရထားဘူတာ ဘယ်နားမှာ ရှိပါသလဲခင်ဗျာ။",
+    "explanation": "အနီးအနားရှိ အပေါ့စားရထားဘူတာ တည်နေရာကို မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Saya nak beli kad Touch n Go satu.",
+    "english": "I want to buy one Touch n Go card.",
+    "myanmar": "Touch n Go ကတ်တစ်ကတ် ဝယ်ချင်လို့ပါခင်ဗျာ။",
+    "explanation": "ဘတ်စ်ကားနှင့် ရထားစီးရန် ကတ်ဝယ်ယူသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Tolong topup kad Touch n Go sepuluh ringgit.",
+    "english": "Please top up my Touch n Go card with 10 Ringgit.",
+    "myanmar": "Touch n Go ကတ်ထဲ ၁၀ ရင်းဂစ် ဘေလ်ဖြည့်ပေးပါဦးခင်ဗျာ။",
+    "explanation": "ရထားဘူတာ သို့မဟုတ် ဆိုင်များတွင် ကတ်ထဲသို့ ငွေဖြည့်သွင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Bas ini lalu jalan Masjid India tak?",
+    "english": "Does this bus pass through Jalan Masjid India?",
+    "myanmar": "ဒီဘတ်စ်ကား မတ်စ်ဂျစ်အင်ဒီယာ လမ်းဘက်ကို ဖြတ်သွားသလားခင်ဗျာ။",
+    "explanation": "ဘတ်စ်ကား သွားမည့် လမ်းကြောင်းကို ယာဉ်မောင်းထံ စုံစမ်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Tolong beritahu saya bila sampai stesen itu.",
+    "english": "Please tell me when we arrive at that station.",
+    "myanmar": "အဲဒီဘူတာရောက်ရင် ကျွန်တော့်ကို ပြောပြပေးပါဦးနော်။",
+    "explanation": "မှတ်တိုင်လွန်မသွားစေရန် ဘေးလူ သို့မဟုတ် ကားမောင်းသူကို အကူအညီတောင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Berapa tambang teksi/Grab ke airport?",
+    "english": "How much is the taxi/Grab fare to the airport?",
+    "myanmar": "လေဆိပ်ကို တက္ကစီ/Grab ကားခ ဘယ်လောက်ကျမလဲခင်ဗျာ။",
+    "explanation": "လေဆိပ်သွားရန် ယာဉ်စီးခ စုံစမ်းမေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Boleh berhenti dekat depan stesen minyak tu?",
+    "english": "Can you stop in front of that petrol station?",
+    "myanmar": "ဟိုရှေ့က ဓာတ်ဆီဆိုင်ရှေ့မှာ ရပ်ပေးလို့ ရမလားခင်ဗျာ။",
+    "explanation": "ဆင်းလိုသည့် နေရာတွင် ကားရပ်ခိုင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Kereta api ini pergi arah mana?",
+    "english": "Which direction is this train heading to?",
+    "myanmar": "ဒီရထားက ဘယ်ဘက်ဦးတည်ပြီး သွားတာလဲခင်ဗျာ။",
+    "explanation": "ရထားပလက်ဖောင်း မှားမစီးမိစေရန် လမ်းကြောင်းမေးသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Saya nak pergi Pasar Seni, turun mana?",
+    "english": "I want to go to Pasar Seni, where do I get off?",
+    "myanmar": "ကျွန်တော် Pasar Seni ကို သွားချင်တာ ဘယ်မှတ်တိုင်မှာ ဆင်းရမလဲခင်ဗျာ။",
+    "explanation": "လိုရာခရီးရောက်ရန် ဆင်းရမည့် မှတ်တိုင်ကို မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Kena tukar tren dekat stesen mana?",
+    "english": "Which station do I need to interchange/change trains?",
+    "myanmar": "ရထားလိုင်းပြောင်းစီးဖို့ ဘယ်ဘူတာမှာ လဲရမလဲခင်ဗျာ။",
+    "explanation": "ရထားလိုင်း ချိန်းစီးရမည့် ဘူတာကို မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Pintu tren akan dibuka di sebelah kiri.",
+    "english": "The train doors will open on the left side.",
+    "myanmar": "ရထားတံခါး ဘယ်ဘက်ခြမ်းမှာ ပွင့်ပါမယ်။",
+    "explanation": "မလေးရှား ရထားများတွင် အမြဲကြားရလေ့ရှိသော အသံလွှင့် ကြေညာချက်ဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Tolong ketepi sikit, saya nak lalu/turun.",
+    "english": "Please step aside a bit, I want to pass/get off.",
+    "myanmar": "နည်းနည်းလောက် လမ်းဖယ်ပေးပါဦး၊ ကျွန်တော် ဆင်းချင်လို့ပါ။",
+    "explanation": "လူပြည့်ကျပ်နေသော ကား/ရထားပေါ်မှ ဆင်းချိန်တွင် လမ်းဖယ်ခိုင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Jalan ni jam (macet) sangat sekarang.",
+    "english": "This road is very jammed right now.",
+    "myanmar": "အခု ဒီလမ်းမှာ ကားတွေအရမ်းပိတ်နေတယ်ဗျာ။",
+    "explanation": "ယာဉ်ကြောပိတ်ဆို့မှုကို ဖော်ပြသည့် အသုံးများသော စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Boleh tumpang motor awak balik asrama?",
+    "english": "Can I hitch a ride on your motorbike back to the hostel?",
+    "myanmar": "အဆောင်ပြန်ဖို့ မင်းဆိုင်ကယ် နောက်ကနေ လိုက်စီးလို့ ရမလား။",
+    "explanation": "လုပ်ဖော်ကိုင်ဖက်ထံ ဆိုင်ကယ်ကြုံလိုက်စီးရန် မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Jangan lintas jalan merata-rata, guna jejantas.",
+    "english": "Do not jaywalk across the road, use the pedestrian bridge.",
+    "myanmar": "လမ်းကို တွေ့ကရာ ဖြတ်မကူးပါနဲ့၊ လူကူးတံတားကို သုံးပါ။",
+    "explanation": "မလေးရှားတွင် ယာဉ်အန္တရာယ်ကင်းရှင်းစေရန် လူကူးတံတားသုံးဖို့ သတိပေးချက်ဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Di mana tempat tunggu teksi?",
+    "english": "Where is the taxi waiting stand?",
+    "myanmar": "တက္ကစီဂိတ် ဘယ်နားမှာ စောင့်ရမလဲခင်ဗျာ။",
+    "explanation": "တက္ကစီစောင့်ရမည့် နေရာကို စုံစမ်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Berapa minit lagi bas nak sampai?",
+    "english": "How many minutes more until the bus arrives?",
+    "myanmar": "ဘတ်စ်ကားရောက်ဖို့ ဘယ်နှစ်မိနစ်လောက် လိုသေးလဲခင်ဗျာ။",
+    "explanation": "ဘတ်စ်ကားရောက်လာမည့် ကြာချိန်ကို မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Boleh tolong call Grab untuk saya?",
+    "english": "Can you please help call a Grab for me?",
+    "myanmar": "ကျွန်တော့်အတွက် Grab ကားလေး ခေါ်ပေးလို့ ရမလားခင်ဗျာ။",
+    "explanation": "အင်တာနက် သို့မဟုတ် အက်ပ်မရှိသည့်အခါ ကားခေါ်ပေးရန် အကူအညီတောင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "TRANSPORT",
+    "categoryMm": "လမ်းခရီးနှင့် သွားလာရေး",
+    "malay": "Sampai destinasi dengan selamat, terima kasih bang.",
+    "english": "Arrived safely at the destination, thank you brother.",
+    "myanmar": "ခရီးဆုံးကို ဘေးကင်းစွာ ရောက်ရှိပါပြီ၊ ကျေးဇူးတင်ပါတယ် အစ်ကို။",
+    "explanation": "ကားပေါ်မှ ဆင်းချိန် ယာဉ်မောင်းကို ကျေးဇူးတင်စကား ပြောကြားသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Tolong! Ada orang pengsan dekat sini!",
+    "english": "Help! Someone has fainted here!",
+    "myanmar": "ကယ်ကြပါဦး။ ဒီမှာ လူတစ်ယောက် သတိလစ် မူးလဲသွားလို့ပါ။",
+    "explanation": "အရေးပေါ် အကူအညီတောင်းခံရာတွင် သုံးသော အလွန်အရေးကြီးသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Cepat panggil ambulans nombor 999!",
+    "english": "Quickly call an ambulance at 999!",
+    "myanmar": "အရေးပေါ် လူနာတင်ယာဉ် 999 ကို မြန်မြန် ဖုန်းခေါ်ပေးပါ။",
+    "explanation": "မလေးရှားနိုင်ငံ၏ အရေးပေါ်ကယ်ဆယ်ရေးဖုန်း 999 သို့ ခေါ်ဆိုခိုင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Perut saya sakit sangat, tak tahan dah.",
+    "english": "My stomach hurts very badly, I can't bear it anymore.",
+    "myanmar": "ကျွန်တော့်ဗိုက် အရမ်းအောင့်နေတယ်၊ မခံမရပ်နိုင်တော့ဘူးခင်ဗျာ။",
+    "explanation": "ပြင်းထန်သော ဗိုက်နာရောဂါ ခံစားရချိန်တွင် အသိပေးပြောဆိုသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Saya nak pergi klinik jumpa doktor sekarang.",
+    "english": "I want to go to the clinic to see a doctor now.",
+    "myanmar": "ကျွန်တော် အခု ဆေးခန်းသွားပြီး ဆရာဝန်နဲ့ ပြချင်လို့ပါခင်ဗျာ။",
+    "explanation": "နေမကောင်းသည့်အခါ အထက်လူကြီးထံ ဆေးခန်းပြခွင့် တောင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Minta MC (surat cuti sakit) dari doktor.",
+    "english": "Request an MC (medical certificate) from the doctor.",
+    "myanmar": "ဆရာဝန်ဆီကနေ ဆေးခွင့်လက်မှတ် (MC) တောင်းထားပါ။",
+    "explanation": "အလုပ်တွင် ခွင့်တင်ရန် ဆေးခွင့်စာရွက် (Medical Certificate) တောင်းယူသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Tangan saya luka berdarah kena mesin.",
+    "english": "My hand is injured and bleeding from the machine.",
+    "myanmar": "ကျွန်တော့်လက် စက်ထိပြီး ဒဏ်ရာရသွေးထွက်နေပါတယ်။",
+    "explanation": "လုပ်ငန်းခွင် ထိခိုက်ဒဏ်ရာရမှု အရေးပေါ် အသိပေးသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Ada peti ubat cemas (first aid kit) tak?",
+    "english": "Is there a first aid kit available?",
+    "myanmar": "ရှေးဦးသူနာပြု ဆေးသေတ္တာ ရှိလားခင်ဗျာ။",
+    "explanation": "အရေးပေါ် ဒဏ်ရာများကို ရှေးဦးကုသရန် ဆေးသေတ္တာ မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Dompet dan pasport saya dah hilang!",
+    "english": "My wallet and passport are lost!",
+    "myanmar": "ကျွန်တော့် ပိုက်ဆံအိတ်နဲ့ နိုင်ငံကူးလက်မှတ် (ပတ်စပို့) ပျောက်သွားပါပြီ။",
+    "explanation": "အရေးကြီး စာရွက်စာတမ်း ပျောက်ဆုံးကြောင်း အကူအညီတောင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Saya nak buat laporan polis (police report).",
+    "english": "I want to make a police report.",
+    "myanmar": "ကျွန်တော် ရဲစခန်းမှာ အမှုဖွင့် တိုင်ကြားစာ တင်ချင်လို့ပါ။",
+    "explanation": "ပစ္စည်းပျောက်ဆုံးခြင်း သို့မဟုတ် ပြဿနာဖြစ်ပွားပါက ရဲစခန်းအစီရင်ခံစာ ရေးသားရန် ပြောဆိုသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Ini salinan pasport dan permit kerja saya.",
+    "english": "Here is a copy of my passport and work permit.",
+    "myanmar": "ဒါ ကျွန်တော့် ပတ်စပို့နဲ့ အလုပ်ပါမစ် မိတ္တူပါခင်ဗျာ။",
+    "explanation": "ရဲ သို့မဟုတ် စစ်ဆေးရေးအဖွဲ့ စစ်ဆေးသည့်အခါ တရားဝင်စာရွက်စာတမ်း ပြသသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Saya bukan pendatang haram, permit saya sah.",
+    "english": "I am not an illegal immigrant, my permit is valid.",
+    "myanmar": "ကျွန်တော် တရားမဝင်နေထိုင်သူ မဟုတ်ပါဘူး၊ ပါမစ် အပြည့်အစုံ ရှိပါတယ်။",
+    "explanation": "စစ်ဆေးခံရချိန်တွင် မိမိ၏ တရားဝင်အလုပ်သမားဖြစ်မှုကို ရှင်းပြသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Tolong hubungi bos saya sekarang juga.",
+    "english": "Please contact my boss right now.",
+    "myanmar": "ကျွန်တော့် သူဌေးဆီကို အခုချက်ချင်း ဆက်သွယ်ပေးပါခင်ဗျာ။",
+    "explanation": "စစ်ဆေးရေး သို့မဟုတ် အရေးပေါ်ကိစ္စတွင် သူဌေးကို ဖုန်းခေါ်ပေးရန် တောင်းဆိုသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Ada kebakaran! Lari keluar ikut pintu cemas!",
+    "english": "Fire! Run outside through the emergency exit!",
+    "myanmar": "မီးလောင်နေတယ်ဗျို့။ အရေးပေါ်ထွက်ပေါက်ကနေ အပြင်ကို အမြန်ပြေးကြ။",
+    "explanation": "မီးဘေးအန္တရာယ် ကြုံတွေ့ရချိန် လူအများအား အရေးပေါ်သတိပေးသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Mana alat pemadam api (fire extinguisher)?",
+    "english": "Where is the fire extinguisher?",
+    "myanmar": "မီးသတ်ဆေးဘူး ဘယ်နားမှာ ရှိပါသလဲခင်ဗျာ။",
+    "explanation": "မီးငြှိမ်းသတ်ရန် မီးသတ်ဆေးဘူး တည်နေရာကို ရှာဖွေမေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Badan saya panas sangat, demam tinggi.",
+    "english": "My body is very hot, I have a high fever.",
+    "myanmar": "ကျွန်တော့်တစ်ကိုယ်လုံး ပူကျစ်နေတယ်၊ အဖျားအရမ်းတက်နေလို့ပါ။",
+    "explanation": "ဖျားနာမှုပြင်းထန်ကြောင်း အသိပေးသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Ada ubat panadol atau ubat tahan sakit tak?",
+    "english": "Do you have Panadol or painkillers?",
+    "myanmar": "ပါရာစီတမော (ပနားဒိုး) သို့မဟုတ် အကိုက်အခဲပျောက်ဆေး ရှိလားခင်ဗျာ။",
+    "explanation": "အဖျား သို့မဟုတ် ကိုက်ခဲမှု သက်သာရန် ဆေးတောင်းခံသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Saya alahan (alergi) pada ubat ini.",
+    "english": "I am allergic to this medicine.",
+    "myanmar": "ကျွန်တော် ဒီဆေးနဲ့ ဓာတ်မတည့်ပါဘူးခင်ဗျာ။",
+    "explanation": "ဆရာဝန် သို့မဟုတ် ဆေးဆိုင်တွင် ဆေးဓာတ်မတည့်မှု ရှိကြောင်း ကြိုတင်အသိပေးသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Jangan sentuh wayar elektrik tu, bahaya!",
+    "english": "Do not touch that electrical wire, it is dangerous!",
+    "myanmar": "ဟို လျှပ်စစ်ဝါယာကြိုးကို မကိုင်နဲ့၊ ဓာတ်လိုက်မယ် အန္တရာယ်ရှိတယ်!",
+    "explanation": "လျှပ်စစ်ရှော့ခ် မဖြစ်စေရန် အရေးပေါ် သတိပေးသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Tolong saya, ada orang curi telefon saya!",
+    "english": "Help me, someone stole my phone!",
+    "myanmar": "ကူညီကြပါဦး၊ တစ်ယောက်ယောက်က ကျွန်တော့်ဖုန်းကို ခိုးသွားလို့ပါ!",
+    "explanation": "ဖုန်းအခိုးခံရချိန်တွင် လူအများအား အကူအညီတောင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "EMERGENCY",
+    "categoryMm": "အရေးပေါ်",
+    "malay": "Saya sesat jalan, macam mana nak balik?",
+    "english": "I am lost, how do I get back?",
+    "myanmar": "ကျွန်တော် လမ်းပျောက်နေလို့ပါ၊ အဆောင်ကို ဘယ်လိုပြန်ရမလဲခင်ဗျာ။",
+    "explanation": "လမ်းပျောက်နေချိန် လမ်းညွှန်မှု ရယူရန် အကူအညီတောင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Makan sini ke bungkus (takeaway)?",
+    "english": "Dine in or takeaway/pack?",
+    "myanmar": "ဒီမှာပဲ စားမှာလား၊ ပါဆယ်ထုတ်မှာလားခင်ဗျာ။",
+    "explanation": "မလေးရှား စားသောက်ဆိုင်များတွင် စားပွဲထိုးက အမြဲစတင်မေးလေ့ရှိသော အဓိက စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Saya nak bungkus satu nasi lemak ayam goreng.",
+    "english": "I want to takeaway one nasi lemak with fried chicken.",
+    "myanmar": "ကြက်ကြော် နာစီလေမတ် တစ်ပွဲ ပါဆယ်ထုတ်ပေးပါခင်ဗျာ။",
+    "explanation": "မလေးရှားနာမည်ကြီး နာစီလေမတ်ထမင်း ပါဆယ်မှာယူသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Bagi teh tarik satu, kurang manis ya.",
+    "english": "Give me one teh tarik, less sweet please.",
+    "myanmar": "လက်ဖက်ရည် (Teh Tarik) တစ်ခွက်ပေးပါ၊ အချိုလျှော့နော်။",
+    "explanation": "မလေးရှားလက်ဖက်ရည်မှာ အလွန်ချိုတတ်သောကြောင့် အချိုလျှော့သောက်လိုပါက 'kurang manis' ဟု သုံးရပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Milo ais satu, ikat tepi (takeaway in bag).",
+    "english": "One iced Milo, tied on the side (takeaway plastic bag).",
+    "myanmar": "မိုင်လိုအေး တစ်အိတ်ပေးပါ၊ ဘေးကြိုးချည် (ikat tepi) ထုတ်ပေးပါ။",
+    "explanation": "အအေးများကို ပလတ်စတစ်အိတ်တွင် ဘေးကြိုးချည် ပါဆယ်မှာယူသည့် မလေးရှားစတိုင် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Tak nak pedas langsung ya, jangan letak cili.",
+    "english": "I do not want spicy at all, do not put chili.",
+    "myanmar": "လုံးဝ အစပ်မထည့်ပါနဲ့နော်၊ ငရုတ်သီး လုံးဝ မထည့်ပါနဲ့။",
+    "explanation": "အစပ်မစားနိုင်သူများ ဟင်းမှာယူချိန် သတိပေးပြောဆိုသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Makanan ini ada halal ke?",
+    "english": "Is this food halal?",
+    "myanmar": "ဒီအစားအသောက်က ဟာလာလ် (Halal) ဟုတ်ပါသလားခင်ဗျာ။",
+    "explanation": "အစားအသောက် ဟာလာလ် ဟုတ်မဟုတ် စုံစမ်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Tolong tambah nasi putih separuh lagi.",
+    "english": "Please add another half portion of white rice.",
+    "myanmar": "ထမင်းဖြူ နောက်ထပ် တစ်ဝက် ထပ်ထည့်ပေးပါဦးခင်ဗျာ။",
+    "explanation": "ထမင်းမဝသေးသည့်အခါ ထမင်းထပ်တိုးမှာသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Kuah campur banjir sikit atas nasi.",
+    "english": "Mix the gravies and pour plenty over the rice.",
+    "myanmar": "ဟင်းရည်စုံလေးကို ထမင်းပေါ် ရွှဲရွှဲလေး ဆမ်းပေးပါခင်ဗျာ။",
+    "explanation": "Nasi Kandar စားသောက်ဆိုင်များတွင် ဟင်းရည်စုံဆမ်းခိုင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Ayam bahagian dada ke paha?",
+    "english": "Chicken breast or thigh part?",
+    "myanmar": "ကြက်ရင်အုပ်သားလား၊ ကြက်ပေါင်သားလားခင်ဗျာ။",
+    "explanation": "ကြက်သားဟင်းမှာယူချိန် ကြက်သားအစိတ်အပိုင်း ရွေးချယ်မေးမြန်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Saya nak bahagian paha, garing sikit.",
+    "english": "I want the thigh part, a bit crispy.",
+    "myanmar": "ကျွန်တော် ကြက်ပေါင်သားလိုချင်တယ်၊ နည်းနည်း ကြွပ်ကြွပ်လေး ပေးပါ။",
+    "explanation": "ကြက်ပေါင်သား ကြွပ်ကြွပ်ရွေးချယ် မှာယူသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Bagi air suam / air kosong satu.",
+    "english": "Give me one warm water / plain water.",
+    "myanmar": "ရေနွေးကြမ်း / ရေသန့် တစ်ခွက်ပေးပါခင်ဗျာ။",
+    "explanation": "ဆိုင်တွင် ရေနွေး သို့မဟုတ် ရိုးရိုးရေသန့် မှာယူသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Mee goreng mamak satu, letak telur mata.",
+    "english": "One mee goreng mamak, with a sunny-side-up fried egg.",
+    "myanmar": "မလေးစတိုင် ခေါက်ဆွဲကြော် တစ်ပွဲရယ်၊ ကြက်ဥကြော် မကျက်တကျက်တစ်လုံး တင်ပေးပါ။",
+    "explanation": "မားမတ် (Mamak) ဆိုင်များတွင် ခေါက်ဆွဲကြော် ကြက်ဥကြော်ဖြင့် မှာယူသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Roti canai dua keping, kuah dhal lebih.",
+    "english": "Two pieces of roti canai, with extra dhal curry gravy.",
+    "myanmar": "ရိုတီပလာတာ နှစ်ချပ်နဲ့ ကုလားပဲဟင်းရည် များများပေးပါခင်ဗျာ။",
+    "explanation": "မနက်စာအတွက် ရိုတီချနိုင်းနှင့် ပဲဟင်းမှာယူသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Boleh minta sudu dan garpu?",
+    "english": "Can I have a spoon and fork?",
+    "myanmar": "ဇွန်းနဲ့ ခရင်း ပေးလို့ရမလားခင်ဗျာ။",
+    "explanation": "စားသောက်ရန် ဇွန်းခရင်း တောင်းဆိုသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Makanan ni sedap sangat, pedas-pedas manis.",
+    "english": "This food is very delicious, spicy and sweet.",
+    "myanmar": "ဒီဟင်း အရမ်းအရသာရှိတယ်၊ စပ်စပ်ချိုချိုလေးနဲ့။",
+    "explanation": "အစားအသောက် အရသာကောင်းမွန်ကြောင်း ချီးကျူးသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Lauk ni dah sejuk, boleh tolong panaskan?",
+    "english": "This dish is cold, can you please reheat it?",
+    "myanmar": "ဒီဟင်း အေးနေလို့ နည်းနည်း ပြန်နွှေးပေးလို့ ရမလားခင်ဗျာ။",
+    "explanation": "ဟင်းအေးနေပါက ပြန်နွှေးခိုင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Kira meja nombor lima, bos.",
+    "english": "Bill for table number five, boss.",
+    "myanmar": "စားပွဲနံပါတ် ၅ ငွေရှင်းမယ် သူဌေး။",
+    "explanation": "စားသောက်ပြီးနောက် စားပွဲနံပါတ်ပြောပြီး ငွေရှင်းခိုင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Boleh asingkan bil untuk kami?",
+    "english": "Can you split the bill for us?",
+    "myanmar": "ဘေလ်ကို သီးသန့်စီ ခွဲရှင်းလို့ ရမလားခင်ဗျာ။",
+    "explanation": "သူငယ်ချင်းများနှင့် သီးခြားစီ ငွေခွဲရှင်းလိုသည့်အခါ ပြောသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Mangkuk ni kotor, tolong tukar yang bersih.",
+    "english": "This bowl is dirty, please change to a clean one.",
+    "myanmar": "ဒီပန်းကန် မသန့်ရှင်းဘူး၊ အသန့်လေးတစ်လုံး လဲပေးပါခင်ဗျာ။",
+    "explanation": "ပန်းကန်ခွက်ယောက် မသန့်ရှင်းပါက အသစ်လဲခိုင်းသည့် စကားဖြစ်ပါသည်။"
+  },
+  {
+    "category": "FOOD",
+    "categoryMm": "အစားအသောက်",
+    "malay": "Kenyang betul makan hari ini, jom balik.",
+    "english": "So full from eating today, let's head back.",
+    "myanmar": "ဒီနေ့တော့ ဗိုက်တော်တော်ဝသွားတာပဲ၊ ပြန်ကြစို့။",
+    "explanation": "စားသောက်ပြီးနောက် ဝလင်ကြောင်းပြောပြီး ပြန်ရန်ခေါ်သည့် စကားဖြစ်ပါသည်။"
+  }
+]

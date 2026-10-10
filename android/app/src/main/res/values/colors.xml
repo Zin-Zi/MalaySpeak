@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_primary">#0F766E</color>
+    <color name="teal_primary_container">#CCFBF1</color>
+    <color name="teal_dark_primary">#2DD4BF</color>
+    <color name="amber_accent">#D97706</color>
+    <color name="surface_light">#F8FAFC</color>
+    <color name="surface_dark">#0F172A</color>
+</resources>
